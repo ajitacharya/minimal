@@ -1,0 +1,39 @@
+body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    /* Header with gradient background */
+    .top-section {
+      height: 80px;
+      background: linear-gradient(to right, gray, black);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 40px;
+    }
+
+    .top-section img {
+      height: 60px;
+    }
+
+    .nav-links1 a {
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+      margin-left: 20px;
+    }
+
+    .nav-links1 a:hover {
+      text-decoration: underline;
+    }
+     .nav-links3 a {
+      color: white;
+      text-decoration: none;
+      font-size: 18px;
+      margin-left: 20px;
+    }
+
+    .nav-links3 a:hover {
+      text-decoration: underline;
+    }
